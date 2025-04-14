@@ -12,7 +12,7 @@ Welcome to my online resume! Below you can find details about my experience, ski
 - **Email**: harshithayrn@gmail.com
 - **Phone**: 9573976469
 - **LinkedIn**: [linkedin.com/in/harshitha-y-r-3b993b285/](https://www.linkedin.com/in/harshitha-y-r-3b993b285/)
-- **GitHub**: [github.com/Harshitha-026](https://github.com/Harshitha-026))
+- **GitHub**: [github.com/Harshitha-026](https://github.com/Harshitha-026)
 - **Portfolio**: [harshitha.com](https://harshitha.com)
 
 ## Summary

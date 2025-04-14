@@ -1,0 +1,36 @@
+<head>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: #2a5d84;
+}
+
+h3 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #2a5d84;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 40px;
+}
